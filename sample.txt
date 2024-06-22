@@ -1,0 +1,2 @@
+console.log('Hello JavaTpoint');   
+node console_example1.js  
